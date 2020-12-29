@@ -1,0 +1,1 @@
+Connect to any wifi.Then run client.py in your favourite way. Anyone in the same wifi can join Chat with this programme.
